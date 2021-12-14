@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.48ecc004.chunk.css",
-    "main.js": "/static/js/main.67d97c61.chunk.js",
-    "main.js.map": "/static/js/main.67d97c61.chunk.js.map",
+    "main.css": "/static/css/main.2326f82e.chunk.css",
+    "main.js": "/static/js/main.c78de56d.chunk.js",
+    "main.js.map": "/static/js/main.c78de56d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.554504a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
     "static/css/2.f524894f.chunk.css": "/static/css/2.f524894f.chunk.css",
-    "static/js/2.afb74793.chunk.js": "/static/js/2.afb74793.chunk.js",
-    "static/js/2.afb74793.chunk.js.map": "/static/js/2.afb74793.chunk.js.map",
+    "static/js/2.330b1606.chunk.js": "/static/js/2.330b1606.chunk.js",
+    "static/js/2.330b1606.chunk.js.map": "/static/js/2.330b1606.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7ff4ee6ab5dec2213d10a52bb0a005ae.js": "/precache-manifest.7ff4ee6ab5dec2213d10a52bb0a005ae.js",
+    "precache-manifest.64b042959b6ef189c6538c2c0e467db9.js": "/precache-manifest.64b042959b6ef189c6538c2c0e467db9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/static/css/2.f524894f.chunk.css.map",
-    "static/css/main.48ecc004.chunk.css.map": "/static/css/main.48ecc004.chunk.css.map",
-    "static/js/2.afb74793.chunk.js.LICENSE.txt": "/static/js/2.afb74793.chunk.js.LICENSE.txt",
+    "static/css/main.2326f82e.chunk.css.map": "/static/css/main.2326f82e.chunk.css.map",
+    "static/js/2.330b1606.chunk.js.LICENSE.txt": "/static/js/2.330b1606.chunk.js.LICENSE.txt",
     "static/media/combinepdf.pdf": "/static/media/combinepdf.eecbdf04.pdf",
-    "static/media/djangologo.svg": "/static/media/djangologo.78736852.svg",
+    "static/media/djangologo.svg": "/static/media/djangologo.bcf22073.svg",
     "static/media/laravellogo.svg": "/static/media/laravellogo.c44ab6ef.svg",
     "static/media/profilePic.jpg": "/static/media/profilePic.05d3317c.jpg",
     "static/media/pytorchlogo.svg": "/static/media/pytorchlogo.d98658a0.svg",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.554504a0.js",
     "static/css/2.f524894f.chunk.css",
-    "static/js/2.afb74793.chunk.js",
-    "static/css/main.48ecc004.chunk.css",
-    "static/js/main.67d97c61.chunk.js"
+    "static/js/2.330b1606.chunk.js",
+    "static/css/main.2326f82e.chunk.css",
+    "static/js/main.c78de56d.chunk.js"
   ]
 }
