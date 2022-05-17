@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.20e21c7e.chunk.css",
-    "main.js": "/static/js/main.9f6dc69e.chunk.js",
-    "main.js.map": "/static/js/main.9f6dc69e.chunk.js.map",
+    "main.css": "/static/css/main.964a03d0.chunk.css",
+    "main.js": "/static/js/main.2eca0445.chunk.js",
+    "main.js.map": "/static/js/main.2eca0445.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.554504a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
     "static/css/2.f524894f.chunk.css": "/static/css/2.f524894f.chunk.css",
-    "static/js/2.0cc6ecd6.chunk.js": "/static/js/2.0cc6ecd6.chunk.js",
-    "static/js/2.0cc6ecd6.chunk.js.map": "/static/js/2.0cc6ecd6.chunk.js.map",
+    "static/js/2.81319430.chunk.js": "/static/js/2.81319430.chunk.js",
+    "static/js/2.81319430.chunk.js.map": "/static/js/2.81319430.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.01e493918f4a1c053322b96729f98a34.js": "/precache-manifest.01e493918f4a1c053322b96729f98a34.js",
+    "precache-manifest.263904d933a3afdece6f4e7f06307838.js": "/precache-manifest.263904d933a3afdece6f4e7f06307838.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/static/css/2.f524894f.chunk.css.map",
-    "static/css/main.20e21c7e.chunk.css.map": "/static/css/main.20e21c7e.chunk.css.map",
-    "static/js/2.0cc6ecd6.chunk.js.LICENSE.txt": "/static/js/2.0cc6ecd6.chunk.js.LICENSE.txt",
+    "static/css/main.964a03d0.chunk.css.map": "/static/css/main.964a03d0.chunk.css.map",
+    "static/js/2.81319430.chunk.js.LICENSE.txt": "/static/js/2.81319430.chunk.js.LICENSE.txt",
     "static/media/djangologo.svg": "/static/media/djangologo.bcf22073.svg",
     "static/media/dockerlogo.svg": "/static/media/dockerlogo.530d80a8.svg",
     "static/media/kuberneteslogo.svg": "/static/media/kuberneteslogo.433b6798.svg",
     "static/media/laravellogo.svg": "/static/media/laravellogo.c44ab6ef.svg",
+    "static/media/omdena.png": "/static/media/omdena.7d67c09b.png",
     "static/media/profilePic.jpg": "/static/media/profilePic.05f1bc3e.jpg",
     "static/media/pytorchlogo.svg": "/static/media/pytorchlogo.d98658a0.svg",
     "static/media/reactlogo.svg": "/static/media/reactlogo.8e26f220.svg",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.554504a0.js",
     "static/css/2.f524894f.chunk.css",
-    "static/js/2.0cc6ecd6.chunk.js",
-    "static/css/main.20e21c7e.chunk.css",
-    "static/js/main.9f6dc69e.chunk.js"
+    "static/js/2.81319430.chunk.js",
+    "static/css/main.964a03d0.chunk.css",
+    "static/js/main.2eca0445.chunk.js"
   ]
 }
