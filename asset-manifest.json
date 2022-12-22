@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.964a03d0.chunk.css",
-    "main.js": "/static/js/main.469eac93.chunk.js",
-    "main.js.map": "/static/js/main.469eac93.chunk.js.map",
+    "main.js": "/static/js/main.50ba76a2.chunk.js",
+    "main.js.map": "/static/js/main.50ba76a2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.554504a0.js",
     "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
     "static/css/2.f524894f.chunk.css": "/static/css/2.f524894f.chunk.css",
-    "static/js/2.12d2620d.chunk.js": "/static/js/2.12d2620d.chunk.js",
-    "static/js/2.12d2620d.chunk.js.map": "/static/js/2.12d2620d.chunk.js.map",
+    "static/js/2.05ffa6f7.chunk.js": "/static/js/2.05ffa6f7.chunk.js",
+    "static/js/2.05ffa6f7.chunk.js.map": "/static/js/2.05ffa6f7.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.59e8eaf695d3ac13f3c2b76eceb105d6.js": "/precache-manifest.59e8eaf695d3ac13f3c2b76eceb105d6.js",
+    "precache-manifest.706e981bb3dc1be9810470935c4c21dd.js": "/precache-manifest.706e981bb3dc1be9810470935c4c21dd.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/static/css/2.f524894f.chunk.css.map",
     "static/css/main.964a03d0.chunk.css.map": "/static/css/main.964a03d0.chunk.css.map",
-    "static/js/2.12d2620d.chunk.js.LICENSE.txt": "/static/js/2.12d2620d.chunk.js.LICENSE.txt",
+    "static/js/2.05ffa6f7.chunk.js.LICENSE.txt": "/static/js/2.05ffa6f7.chunk.js.LICENSE.txt",
     "static/media/djangologo.svg": "/static/media/djangologo.bcf22073.svg",
     "static/media/dockerlogo.svg": "/static/media/dockerlogo.530d80a8.svg",
     "static/media/flasklogo.svg": "/static/media/flasklogo.94719bf8.svg",
@@ -27,13 +27,14 @@
     "static/media/tensorflowlogo.svg": "/static/media/tensorflowlogo.6f83f74d.svg",
     "static/media/uit.jpeg": "/static/media/uit.d6b7bb44.jpeg",
     "static/media/universityofyangon.jpeg": "/static/media/universityofyangon.ba923499.jpeg",
+    "static/media/villagelink.png": "/static/media/villagelink.81f05d83.png",
     "static/media/vuelogo.svg": "/static/media/vuelogo.9a45fc76.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.554504a0.js",
     "static/css/2.f524894f.chunk.css",
-    "static/js/2.12d2620d.chunk.js",
+    "static/js/2.05ffa6f7.chunk.js",
     "static/css/main.964a03d0.chunk.css",
-    "static/js/main.469eac93.chunk.js"
+    "static/js/main.50ba76a2.chunk.js"
   ]
 }
